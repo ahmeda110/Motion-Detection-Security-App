@@ -9,8 +9,8 @@ This app detects moving objects within a camera's frame, and boxes them all with
 
 # INSTALLING
 
-1- git clone (https/ssh) depending on your permissions
-2- cd to directory
-3- pip install bokeh
-4- pip install opencv-python
-5- python plot.py
+1- git clone (https/ssh) depending on your permissions<br>
+2- cd to directory<br>
+3- pip install bokeh<br>
+4- pip install opencv-python<br>
+5- python plot.py<br>
